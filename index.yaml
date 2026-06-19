@@ -3,7 +3,17 @@ entries:
   lgtm-lbac-proxy:
   - apiVersion: v2
     appVersion: 0.2.0-alpha.1
-    created: "2026-06-19T12:50:54.788656077Z"
+    created: "2026-06-19T13:06:54.973970486Z"
+    description: A Helm chart for LGTM LBAC Proxy with flexible multi-label enforcement
+    digest: a49a00ad2d5791ccd870a9e21d270ec584257aeda14a4b622d28066b8456d593
+    name: lgtm-lbac-proxy
+    type: application
+    urls:
+    - https://at-blacknight-projects.github.io/helm-charts/lgtm-lbac-proxy-0.2.0-alpha.2.tgz
+    version: 0.2.0-alpha.2
+  - apiVersion: v2
+    appVersion: 0.2.0-alpha.1
+    created: "2026-06-19T13:06:54.97307058Z"
     description: A Helm chart for LGTM LBAC Proxy with flexible multi-label enforcement
     digest: 89dc3649fbbd894a701edd19f771606add32783bb0a1d5e70f84b0f69360a032
     name: lgtm-lbac-proxy
@@ -13,7 +23,7 @@ entries:
     version: 0.2.0-alpha.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-19T12:50:54.787882881Z"
+    created: "2026-06-19T13:06:54.972242011Z"
     description: A Helm chart for LGTM LBAC Proxy with flexible multi-label enforcement
     digest: 059b41ebbaf4e62542aa2c93f131fcbd3f17bdffa2a03ccdce9e90c1f6077af4
     name: lgtm-lbac-proxy
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://at-blacknight-projects.github.io/helm-charts/lgtm-lbac-proxy-0.1.0.tgz
     version: 0.1.0
-generated: "2026-06-19T12:50:54.786880635Z"
+generated: "2026-06-19T13:06:54.971196916Z"
